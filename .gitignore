@@ -6,3 +6,6 @@
 !/.github/
 !/gradle/
 !/gradlew
+!/.ebextensions/
+!/.platform/
+!/Procfile
